@@ -1,0 +1,30 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(../imgs/background.jpeg);
+    margin: 1%;
+    padding: 1%;
+    font-size: 16pt;
+    text-align: justify;
+    line-height: 1.6;
+  }
+
+p{
+    margin-bottom: 32px;
+}
+
+.nav_links{
+    background-color: yellow;
+}
+
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width:auto;
+    border: 3px solid blue;
+    padding: 25px;
+    border-radius: 10px;
+    margin: 10px;
+}
